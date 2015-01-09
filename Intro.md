@@ -1,3 +1,6 @@
+Course Syllabus for "ARTH110: Introduction to Western Art History: Pre-historic to High Gothic"
+--------------------------------------------------------------
+
 In this course, we will study the history of Western art, beginning with
 the first objects created by prehistoric humans around 20,000 years ago
 and ending with the art and architecture of the High Gothic period in
