@@ -1,3 +1,9 @@
+---
+layout: default
+course: ARTH110
+course_fulltitle: "Introduction to Western Art History: Prehistoric to High Gothic"
+course_description: "Introductory survey of the key works and major movements in Western art and architecture from prehistory to the end of the Medieval period."
+---
 -   **Unit 6: Final Exam**  
     -   **Final Exam: The Saylor Foundation's "ARTH110 Final Exam"**
 
