@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH110 - Introduction to Western Art History: Prehistoric to High Gothic"
-course: ARTH110
-course_fulltitle: "Introduction to Western Art History: Prehistoric to High Gothic"
+title: "ARTH110: Introduction to Western Art History - Prehistoric to High Gothic"
 course_description: "Introductory survey of the key works and major movements in Western art and architecture from prehistory to the end of the Medieval period."
+next: ../Unit04
+previous: ../Unit02
+bgimage: arth110.jpg
 ---
 -   **Unit 3: Art of Ancient Egypt**  
 
